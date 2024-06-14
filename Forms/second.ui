@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Second</class>
+ <widget class="QDialog" name="Second">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>719</width>
+    <height>592</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>200</y>
+     <width>311</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:20pt; font-weight:700;&quot;&gt;Choose Your Lesson&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>340</y>
+     <width>83</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Let's Go!</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>280</y>
+     <width>141</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>Lesson 1</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 2</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 3</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 4</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 5</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 6</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 7</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 8</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 9</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 10</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 11</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 12</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 13</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 14</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 15</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 16</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 17</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 18</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 19</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 20</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 21</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 22</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 23</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 24</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 25</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 26</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 27</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 28</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 29</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 30</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 31</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 32</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 33</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 34</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 35</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 36</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 37</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 38</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 39</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 40</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 41</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Lesson 42</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>pushButton</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>
